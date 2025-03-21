@@ -7,7 +7,7 @@ raw - dont have gui good for debugging
 v1 - has logs and gui 
 
 
-note:chrome.driver is need to run this bot
+note: chrome.driver is needed to run this bot
 here is the link:
 https://developer.chrome.com/docs/chromedriver/downloads
 
