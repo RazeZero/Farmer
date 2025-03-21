@@ -23,7 +23,7 @@ style.configure("TLabel", background="#2b2b2b", foreground="#ffffff", font=("Hel
 style.configure("Title.TLabel", background="#2b2b2b", foreground="#00ccff", font=("Helvetica", 14, "bold"))
 
 # Title label with a splash of color
-title_label = ttk.Label(root, text="Automation Bot Status", style="Title.TLabel")
+title_label = ttk.Label(root, text="Rake Tayo Automation Bot", style="Title.TLabel")
 title_label.pack(pady=10)
 
 # Frame for the text area with subtle border
